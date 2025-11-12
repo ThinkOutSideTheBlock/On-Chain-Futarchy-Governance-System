@@ -1,0 +1,23 @@
+# Python Dependencies for Governance Prediction Markets Paper Analysis
+# Install with: pip install -r requirements.txt
+
+# Core numerical computing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Statistical analysis
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Blockchain interaction
+web3>=6.0.0
+
+# Optimization (for cartel_analysis.py)
+PuLP>=2.7.0
+
+# Optional: Jupyter for interactive analysis
+# jupyter>=1.0.0
+# ipykernel>=6.20.0
