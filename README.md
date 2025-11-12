@@ -106,7 +106,10 @@ bash run_paper_pipeline.sh
 │                                                 │
 └─────────────────────────────────────────────────┘
 ```
+## Citation
+If you use this software, please cite it as:
 
+Khoshakhlagh, Sajjad. (2025). On-Chain-Futarchy-Governance-System: A decentralized prediction system where participants earn reputation through accurate predictions, which directly influences their voting power in governance decisions (v1.0.0-alpha). Zenodo. https://doi.org/10.5281/zenodo.17594669
 
 ### License
 MIT License
